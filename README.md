@@ -76,10 +76,10 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CC-2C3E50?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<a href="https://www.credly.com/badges/da45a524-2088-4265-92d0-b196ee602a9e"</a><img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logo=GIAC&logoColor=white" />
-<img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-00AEEF?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<a href="https://www.credly.com/badges/8cdb3fee-426a-4061-80f7-8241b862cc11/public_url"</a><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/7ab22471-0564-413a-b65d-751ccace33c1/public_url"</a><img src="https://img.shields.io/badge/-CC-2C3E50?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<a href="https://www.credly.com/badges/da45a524-2088-4265-92d0-b196ee602a9e/public_url"</a><img src="https://img.shields.io/badge/-GFACT-006400?&style=for-the-badge&logo=GIAC&logoColor=white" />
+<a href="https://www.credly.com/badges/75857701-a128-44d7-81cd-64c4eb2cef9a/public_url"</a><img src="https://img.shields.io/badge/-Splunk%20Core%20Certified%20User-00AEEF?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Projects
