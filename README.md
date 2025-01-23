@@ -9,7 +9,6 @@ Cybersecurity enthusiast specializing in SOC, digital forensics, and incident re
 My journey into cybersecurity has been fueled by hands-on experience in virtual labs and a deep interest in threat detection, digital forensics, and incident response. I am eager to transition my skills into a professional role, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst, where I can contribute to identifying and mitigating cyber threats while continuing to grow as a Cyber Forensic Response Specialist.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +22,6 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +44,6 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CC-2C3E50?&style=for-the-badge&logo=ISC2&logoColor=white" />
