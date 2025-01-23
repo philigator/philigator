@@ -13,12 +13,10 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Endpoint Monitoring with LimaCharlie EDR | <a href="https://google.com">SOC Lab: Simulation & Detection</a>|
-| Adversary Simulation with Sliver C2           | <a href="https://google.com">SOC Lab: Simulation & Detection</a>|
-| Automated Threat Detection with YARA and Sigma Rules | <a href="https://google.com">SOC Lab: Simulation & Detection</a>|
-| Threat Detection and Response Rule Crafting in LimaCharlie | <a href="https://google.com">SOC Lab: Simulation & Detection</a>|
+| Endpoint Monitoring with LimaCharlie EDR | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
+| Adversary Simulation with Sliver C2           | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
+| Automated Threat Detection with YARA and Sigma Rules | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
+| Threat Detection and Response Rule Crafting in LimaCharlie | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -57,6 +55,6 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>
 - SOC Automation Project
 - SOC Lab: Simulation & Detection
