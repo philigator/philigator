@@ -16,10 +16,7 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 | Adversary Simulation with Sliver C2           | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
 | Automated Threat Detection with YARA and Sigma Rules | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
 | Threat Detection and Response Rule Crafting in LimaCharlie | <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Threat Simulation & Detection with ELK, Mythic, & osTicket         | Cloud SOC Lab|
 
 ## Tools
 
@@ -84,5 +81,4 @@ My journey into cybersecurity has been fueled by hands-on experience in virtual 
 
 ## Projects
 - <a href="https://github.com/philigator/SOC-Lab-Simulation-Detection/tree/main">SOC Lab: Simulation & Detection</a>
-- SOC Automation Project
-- SOC Lab: Simulation & Detection
+- Cloud SOC Lab: Threat Simulation & Detection with ELK, Mythic, & osTicket
